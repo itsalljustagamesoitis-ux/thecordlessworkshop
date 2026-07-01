@@ -18,6 +18,12 @@ visual:
   font_headings: Oswald
   font_body: Inter
   slots: 5
+  logo_paths:
+    favicon: /favicon.ico
+    header_svg: /images/brand/logo-header.svg
+    header_png: /images/brand/logo-header.svg
+    footer_svg: /images/brand/logo-header.svg
+    social_square: /images/brand/logo-header.svg
 images:
   base_url: /images
 style_policy:
