@@ -1,0 +1,40 @@
+categories:
+  - slug: cordless-tools
+    label: Cordless Tools
+    hubs:
+      - slug: battery-platforms
+        label: Battery Platforms
+        description: >-
+          Battery platform buying guides and comparisons — DeWalt 20V Max, Milwaukee M18 and M12, Makita LXT, Ryobi
+          One+, and how to choose which ecosystem to commit to.
+        articles: []
+      - slug: drills-drivers
+        label: Drills & Drivers
+        description: >-
+          Cordless drill and driver guides — comparing brushless drills, impact drivers, hammer drills, and rotary
+          hammers by voltage, torque, and battery compatibility.
+        articles: []
+      - slug: saws
+        label: Saws
+        description: >-
+          Cordless saw guides — circular saws, miter saws, table saws, jigsaws, reciprocating saws, and track saws for
+          DIY and home workshop use.
+        articles: []
+      - slug: power-tools
+        label: Power Tools
+        description: >-
+          Cordless power tool guides covering angle grinders, oscillating multitools, random orbital sanders, routers,
+          nailers, impact wrenches, and more.
+        articles: []
+      - slug: workshop
+        label: Workshop
+        description: >-
+          Workshop gear guides — shop vacuums, air compressors, drill presses, and the support equipment that makes a
+          home workshop functional.
+        articles: []
+      - slug: outdoor-power
+        label: Outdoor Power
+        description: >-
+          Outdoor cordless power equipment — leaf blowers, string trimmers, chainsaws, pressure washers, and battery
+          lawn mowers.
+        articles: []
