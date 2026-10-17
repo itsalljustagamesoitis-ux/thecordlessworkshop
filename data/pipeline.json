@@ -12,7 +12,7 @@
       "locked_url": "/dewalt-20v-max-vs-milwaukee-m18/",
       "type": "comparison",
       "keyword": "milwaukee power tools vs dewalt",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 390,
@@ -35,8 +35,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -50,7 +50,7 @@
       "locked_url": "/milwaukee-m12-vs-m18/",
       "type": "comparison",
       "keyword": "milwaukee m12 vs m18 fuel",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 40,
@@ -74,8 +74,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -89,7 +89,7 @@
       "locked_url": "/dewalt-vs-makita/",
       "type": "comparison",
       "keyword": "dewalt vs makita vs milwaukee impact driver",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 20,
@@ -112,8 +112,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -127,7 +127,7 @@
       "locked_url": "/makita-vs-milwaukee/",
       "type": "comparison",
       "keyword": "makita vs milwaukee cordless tools",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 30,
@@ -151,8 +151,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -166,7 +166,7 @@
       "locked_url": "/dewalt-vs-ryobi/",
       "type": "comparison",
       "keyword": "dewalt vs ryobi drill",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 30,
@@ -188,8 +188,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -203,7 +203,7 @@
       "locked_url": "/best-dewalt-20v-tools/",
       "type": "buyer_guide",
       "keyword": "best dewalt 20v drill",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Platform explained | Key tools to start | Battery & compatibility | Tier-by-tier picks | Comparison table | FAQ",
       "required_product_count": 4,
       "volume": 70,
@@ -228,8 +228,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -243,7 +243,7 @@
       "locked_url": "/best-milwaukee-m18-tools/",
       "type": "buyer_guide",
       "keyword": "best milwaukee m18 replacement battery",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Platform explained | Key tools to start | Battery & compatibility | Tier-by-tier picks | Comparison table | FAQ",
       "required_product_count": 4,
       "volume": 30,
@@ -267,8 +267,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -282,7 +282,7 @@
       "locked_url": "/best-milwaukee-m12-tools/",
       "type": "buyer_guide",
       "keyword": "best milwaukee m12 impact driver",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Platform explained | Key tools to start | Battery & compatibility | Tier-by-tier picks | Comparison table | FAQ",
       "required_product_count": 4,
       "volume": 20,
@@ -306,8 +306,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -321,7 +321,7 @@
       "locked_url": "/best-ryobi-one-tools/",
       "type": "buyer_guide",
       "keyword": "ryobi one+ 18v battery",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Platform explained | Key tools to start | Battery & compatibility | Tier-by-tier picks | Comparison table | FAQ",
       "required_product_count": 4,
       "volume": 4400,
@@ -343,8 +343,8 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -358,7 +358,7 @@
       "locked_url": "/best-cordless-power-tool-sets/",
       "type": "roundup",
       "keyword": "best cordless power tool combo kit",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 20,
@@ -370,6 +370,8 @@
       "premium_brand": false,
       "source_seed": "best-cordless-power-tool-sets",
       "products": [
+        "milwaukee-electric-m12-fuel-2-tool",
+        "dewalt-20v-max-cordless-drill-driver",
         "craftsman-v20-max-cordless-drill",
         "drill-tool-set-tool-kit",
         "dewalt-tools-5-tool-power",
@@ -383,9 +385,9 @@
       "hub_url": "/battery-platforms/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
-      "fail_count": 0
+      "staged": true,
+      "status": "published",
+      "fail_count": 2
     },
     {
       "id": 11,
@@ -398,7 +400,7 @@
       "locked_url": "/drill-vs-impact-driver/",
       "type": "comparison",
       "keyword": "impact driver vs drill reddit",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 50,
@@ -422,8 +424,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -437,7 +439,7 @@
       "locked_url": "/best-cordless-drills/",
       "type": "roundup",
       "keyword": "best cordless drill brand",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 90,
@@ -463,8 +465,8 @@
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
       "staged": false,
-      "status": "pending",
-      "fail_count": 0
+      "status": "published",
+      "fail_count": 1
     },
     {
       "id": 13,
@@ -477,7 +479,7 @@
       "locked_url": "/best-impact-drivers/",
       "type": "roundup",
       "keyword": "best impact driver 2026",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 70,
@@ -489,6 +491,7 @@
       "premium_brand": false,
       "source_seed": "best-impact-drivers",
       "products": [
+        "robustrue-impact-driver-21v-1",
         "2026-new-upgrade-1106ft-lbs",
         "dewalt-20v-max-impact-driver",
         "dewalt-20v-max-xr-impact-driver",
@@ -502,8 +505,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -517,7 +520,7 @@
       "locked_url": "/best-hammer-drills/",
       "type": "roundup",
       "keyword": "best hammer drill dewalt",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 40,
@@ -542,8 +545,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -557,7 +560,7 @@
       "locked_url": "/best-drilldriver-combo-kits/",
       "type": "roundup",
       "keyword": "best tool combo kits",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 40,
@@ -582,8 +585,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -597,7 +600,7 @@
       "locked_url": "/best-rotary-hammers/",
       "type": "roundup",
       "keyword": "best rotary hammer drill for concrete",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 30,
@@ -621,8 +624,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -636,7 +639,7 @@
       "locked_url": "/dewalt-cordless-drill-review/",
       "type": "review",
       "keyword": "dewalt 20v max compact brushless drill/driver kit dcd777d1",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Overview & key specs (table) | What stands out | Where it falls short | Who it's for | Alternatives | FAQ",
       "required_product_count": 1,
       "volume": 4400,
@@ -659,8 +662,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -674,7 +677,7 @@
       "locked_url": "/milwaukee-impact-driver-review/",
       "type": "review",
       "keyword": "milwaukee m18 fuel impact driver",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Overview & key specs (table) | What stands out | Where it falls short | Who it's for | Alternatives | FAQ",
       "required_product_count": 1,
       "volume": 3600,
@@ -699,8 +702,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -714,7 +717,7 @@
       "locked_url": "/best-drills-for-concrete/",
       "type": "roundup",
       "keyword": "best hammer drill for masonry",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 20,
@@ -739,8 +742,8 @@
       "hub_url": "/drills-drivers/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -754,7 +757,7 @@
       "locked_url": "/best-circular-saws/",
       "type": "roundup",
       "keyword": "what is the best circular saw",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 70,
@@ -779,8 +782,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -794,7 +797,7 @@
       "locked_url": "/best-miter-saws/",
       "type": "roundup",
       "keyword": "best miter saw blade for moulding",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 50,
@@ -819,8 +822,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -834,7 +837,7 @@
       "locked_url": "/best-table-saws/",
       "type": "roundup",
       "keyword": "best table saw for beginner",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 170,
@@ -858,8 +861,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -873,7 +876,7 @@
       "locked_url": "/best-jigsaws/",
       "type": "roundup",
       "keyword": "best jigsaw 2025",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 40,
@@ -897,8 +900,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -912,7 +915,7 @@
       "locked_url": "/best-reciprocating-saws/",
       "type": "roundup",
       "keyword": "best reciprocating saw 2025",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 40,
@@ -937,8 +940,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -952,7 +955,7 @@
       "locked_url": "/best-band-saws/",
       "type": "roundup",
       "keyword": "best band saw blade for cutting steel",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 30,
@@ -976,8 +979,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -991,7 +994,7 @@
       "locked_url": "/best-track-saws/",
       "type": "roundup",
       "keyword": "best track saw blade",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 70,
@@ -1015,8 +1018,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1030,7 +1033,7 @@
       "locked_url": "/circular-saw-vs-miter-saw/",
       "type": "comparison",
       "keyword": "circular saw vs miter",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 20,
@@ -1054,8 +1057,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1069,7 +1072,7 @@
       "locked_url": "/corded-vs-cordless-circular-saw/",
       "type": "comparison",
       "keyword": "corded vs cordless circular saw reddit",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 20,
@@ -1093,8 +1096,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1108,7 +1111,7 @@
       "locked_url": "/best-miter-saw-for-beginners/",
       "type": "roundup",
       "keyword": "best small miter saw for trim",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 20,
@@ -1133,8 +1136,8 @@
       "hub_url": "/saws/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1148,7 +1151,7 @@
       "locked_url": "/best-angle-grinders/",
       "type": "roundup",
       "keyword": "best angle grinder proof bike lock",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 30,
@@ -1173,9 +1176,9 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
-      "fail_count": 0
+      "staged": true,
+      "status": "published",
+      "fail_count": 1
     },
     {
       "id": 31,
@@ -1188,7 +1191,7 @@
       "locked_url": "/best-oscillating-multitools/",
       "type": "roundup",
       "keyword": "best oscillating multi-tools 2025 comparison",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 50,
@@ -1213,8 +1216,8 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1228,7 +1231,7 @@
       "locked_url": "/best-random-orbital-sanders/",
       "type": "roundup",
       "keyword": "best cordless random orbital sander",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 110,
@@ -1253,8 +1256,8 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1268,7 +1271,7 @@
       "locked_url": "/best-wood-routers/",
       "type": "roundup",
       "keyword": "best trim router woodworking",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 110,
@@ -1293,8 +1296,8 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1308,7 +1311,7 @@
       "locked_url": "/best-brad-nailers/",
       "type": "roundup",
       "keyword": "hybest nail gun",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 50,
@@ -1333,8 +1336,8 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1348,7 +1351,7 @@
       "locked_url": "/best-framing-nailers/",
       "type": "roundup",
       "keyword": "best framing nailer 2026",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 40,
@@ -1373,8 +1376,8 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1388,7 +1391,7 @@
       "locked_url": "/best-heat-guns/",
       "type": "roundup",
       "keyword": "best heat gun to remove paint",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 40,
@@ -1412,8 +1415,8 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1427,7 +1430,7 @@
       "locked_url": "/best-rotary-tools/",
       "type": "roundup",
       "keyword": "best rotary tools for surgical instrument maintenance",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 40,
@@ -1453,8 +1456,8 @@
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
       "staged": false,
-      "status": "pending",
-      "fail_count": 0
+      "status": "published",
+      "fail_count": 2
     },
     {
       "id": 38,
@@ -1467,7 +1470,7 @@
       "locked_url": "/best-cordless-impact-wrenches/",
       "type": "roundup",
       "keyword": "best 1 2 inch drive cordless impact wrench",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 20,
@@ -1492,8 +1495,8 @@
       "hub_url": "/power-tools/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1507,7 +1510,7 @@
       "locked_url": "/best-shop-vacuums/",
       "type": "roundup",
       "keyword": "best shop vacuum wet dry",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 480,
@@ -1532,8 +1535,8 @@
       "hub_url": "/workshop/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1547,7 +1550,7 @@
       "locked_url": "/best-air-compressors/",
       "type": "roundup",
       "keyword": "whats the best air compressor for the price",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 260,
@@ -1572,8 +1575,8 @@
       "hub_url": "/workshop/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1587,7 +1590,7 @@
       "locked_url": "/best-drill-presses/",
       "type": "roundup",
       "keyword": "best drill press for steel",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 90,
@@ -1611,8 +1614,8 @@
       "hub_url": "/workshop/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1626,7 +1629,7 @@
       "locked_url": "/best-angle-grinders-for-wood-carving/",
       "type": "roundup",
       "keyword": "best angle grinder for wood carving",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 30,
@@ -1651,8 +1654,8 @@
       "hub_url": "/workshop/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1666,7 +1669,7 @@
       "locked_url": "/best-portable-air-compressors/",
       "type": "roundup",
       "keyword": "best portable air compressor for off road",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 50,
@@ -1690,8 +1693,8 @@
       "hub_url": "/workshop/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1705,7 +1708,7 @@
       "locked_url": "/best-wet-tile-saws/",
       "type": "roundup",
       "keyword": "best wet tile saw under $300",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 50,
@@ -1730,8 +1733,8 @@
       "hub_url": "/workshop/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1745,7 +1748,7 @@
       "locked_url": "/best-cordless-leaf-blowers/",
       "type": "roundup",
       "keyword": "best ego leaf blower",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 320,
@@ -1769,8 +1772,8 @@
       "hub_url": "/outdoor-power/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1784,7 +1787,7 @@
       "locked_url": "/best-string-trimmers/",
       "type": "roundup",
       "keyword": "best string trimmer mower",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 110,
@@ -1809,8 +1812,8 @@
       "hub_url": "/outdoor-power/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1824,7 +1827,7 @@
       "locked_url": "/best-cordless-chainsaws/",
       "type": "roundup",
       "keyword": "best cordless chainsaw 2026",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 70,
@@ -1849,8 +1852,8 @@
       "hub_url": "/outdoor-power/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1864,7 +1867,7 @@
       "locked_url": "/best-pressure-washers/",
       "type": "roundup",
       "keyword": "the best pressure washer",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 390,
@@ -1888,8 +1891,8 @@
       "hub_url": "/outdoor-power/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     },
     {
@@ -1903,7 +1906,7 @@
       "locked_url": "/best-battery-lawn-mowers/",
       "type": "roundup",
       "keyword": "best way to sharpen lawn mower blades with angle grinder",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "What to look for | Best Overall | Best Value | Best for [use case] | Comparison table | How we selected | FAQ",
       "required_product_count": 5,
       "volume": 20,
@@ -1928,9 +1931,9 @@
       "hub_url": "/outdoor-power/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
-      "fail_count": 0
+      "staged": true,
+      "status": "published",
+      "fail_count": 1
     },
     {
       "id": 50,
@@ -1943,7 +1946,7 @@
       "locked_url": "/corded-vs-cordless-power-tools/",
       "type": "comparison",
       "keyword": "corded vs cordless impact driver",
-      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (\u00a7255-safe).",
+      "angle": "Curated from manufacturer specs, owner reviews and community consensus. No first-party testing claims (§255-safe).",
       "h2_structure": "Quick verdict | Specs side by side (table) | [A] strengths & trade-offs | [B] strengths & trade-offs | Which should you pick | FAQ",
       "required_product_count": 2,
       "volume": 20,
@@ -1968,8 +1971,8 @@
       "hub_url": "/outdoor-power/",
       "category_label": "Cordless Tools",
       "category_slug": "cordless-tools",
-      "staged": false,
-      "status": "pending",
+      "staged": true,
+      "status": "published",
       "fail_count": 0
     }
   ]

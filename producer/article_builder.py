@@ -271,7 +271,7 @@ def generate_article(article: dict, products: dict, eeat: dict, persona: dict,
     prompt = build_prompt(article, products, eeat, persona)
 
     resp = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-sonnet-5",
         max_tokens=4096,
         system=SYSTEM,
         messages=[{"role": "user", "content": prompt}],
@@ -329,11 +329,16 @@ def _americanize(text: str) -> str:
 
 
 def _fix_punctuation(text: str) -> str:
-    """Replace em/en dashes with commas or periods."""
+    """Normalize typed dash substitutes; leave genuine em/en-dashes alone."""
     import re
-    text = re.sub(r'\s*—\s*', ', ', text)
-    text = re.sub(r'\s*–\s*', ', ', text)
-    text = text.replace('--', ', ')
+    # Genuine em/en-dash characters are left untouched -- the article prompts
+    # explicitly require em-dashes in their own H2 templates (e.g.
+    # "## {Product} -- Strengths and Trade-offs"), so stripping them here
+    # was corrupting prompt-mandated formatting, not fixing a real
+    # punctuation problem.
+    text = re.sub(r'\s*---\s*', ' — ', text)
+    text = re.sub(r'\s+--\s+', ' — ', text)
+    text = re.sub(r'(?<=\w)--(?=\w)', '—', text)
     return text
 
 
@@ -341,7 +346,7 @@ def build_frontmatter(article: dict, products: dict, title: str, description: st
     """Build YAML frontmatter for a content/articles/*.md file."""
     persona_slug = _PERSONA.get("slug", _PERSONA.get("name_used", "author").lower())
     hub_n = ((article.get("id", 1) - 1) % 8) + 1
-    hero_image = f"articles/{article.get('hub', 'general')}-{hub_n}.jpg"
+    hero_image = f"articles/{article.get('hub', 'general')}-{hub_n}.webp"
 
     product_keys = article.get("products", [])
     products_yaml = ""

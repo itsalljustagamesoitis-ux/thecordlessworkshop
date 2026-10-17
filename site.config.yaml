@@ -8,7 +8,8 @@ site:
 affiliate:
   amazon_tracking_id: thecordlessworkshop-20
 analytics:
-  ga4_measurement_id: G-XXXXXXXXXX
+  ga4_measurement_id: G-CX58QEWREY
+  consent_default: granted
 persona:
   config_path: config/personas/ryan-mercer.yaml
 visual:

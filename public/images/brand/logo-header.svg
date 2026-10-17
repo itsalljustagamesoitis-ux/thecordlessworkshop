@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40" aria-label="Site logo">
-  <!-- Replace with real logo before launch -->
-  <rect width="200" height="40" fill="none"/>
-  <text x="0" y="28" font-family="serif" font-size="24" font-weight="bold" fill="currentColor">{{BRAND_NAME}}</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="220" height="44" aria-label="The Cordless Workshop">
+  <polygon points="20,4 35.6,13 35.6,31 20,40 4.4,31 4.4,13" fill="#1A2332"/>
+  <polygon points="22,12 12,25 19,25 18,33 28,20 21,20" fill="#F59B00"/>
+  <text x="50" y="19" font-family="Oswald, 'Arial Narrow', Arial, sans-serif" font-size="12" font-weight="600" fill="#F59B00" letter-spacing="2">THE CORDLESS</text>
+  <text x="50" y="40" font-family="Oswald, 'Arial Narrow', Arial, sans-serif" font-size="20" font-weight="700" fill="#1A2332">WORKSHOP</text>
 </svg>
